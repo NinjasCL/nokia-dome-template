@@ -1,9 +1,12 @@
 DOME_VERSION = v1.4.0
 
-.PHONY: dm dl start
+.PHONY: dm dl start record
 
 s start:
 	./dome --debug main.wren
+
+r record:
+	./dome -r main.wren
 
 c clean:
 	rm -f dome-${DOME_VERSION}-linux-x64.zip
