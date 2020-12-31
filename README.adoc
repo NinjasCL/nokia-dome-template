@@ -1,0 +1,24 @@
+:ext-relative:
+:toc: macro
+:toclevels: 4
+
+# DOME Nokia Game Template
+
+This is a small template for making games
+using https://domeengine.com[DOME Engine] and https://itch.io/jam/nokiajam3[Nokia Jam specs].
+
+## 📘 LICENSE
+MIT
+
+## 🤩 Credits
+
+- Resources by https://phillipp.itch.io/nokiajamresources[Nokia Jam Resources].
+
+++++
+<p>
+  Made with <i class="fa fa-heart">&#9829;</i> by
+  <a href="https://ninjas.cl">
+    Ninjas.cl
+  </a>.
+</p>
+++++
